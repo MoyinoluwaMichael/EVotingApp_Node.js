@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "root",
+      "password": "password",
+      "database": "evo",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
